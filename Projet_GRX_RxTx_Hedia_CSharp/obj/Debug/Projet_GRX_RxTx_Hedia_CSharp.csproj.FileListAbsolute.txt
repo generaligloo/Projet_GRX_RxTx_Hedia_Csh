@@ -1,0 +1,10 @@
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\bin\Debug\Projet_GRX_RxTx_Hedia_CSharp.exe.config
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\bin\Debug\Projet_GRX_RxTx_Hedia_CSharp.exe
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\bin\Debug\Projet_GRX_RxTx_Hedia_CSharp.pdb
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\obj\Debug\Projet_GRX_RxTx_Hedia_CSharp.csprojAssemblyReference.cache
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\obj\Debug\Projet_GRX_RxTx_Hedia_CSharp.EcranPrincipal.resources
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\obj\Debug\Projet_GRX_RxTx_Hedia_CSharp.Properties.Resources.resources
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\obj\Debug\Projet_GRX_RxTx_Hedia_CSharp.csproj.GenerateResource.cache
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\obj\Debug\Projet_GRX_RxTx_Hedia_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\obj\Debug\Projet_GRX_RxTx_Hedia_CSharp.exe
+C:\Users\gdocq\source\repos\Projet_GRX_RxTx_Hedia_CSharp\Projet_GRX_RxTx_Hedia_CSharp\obj\Debug\Projet_GRX_RxTx_Hedia_CSharp.pdb
